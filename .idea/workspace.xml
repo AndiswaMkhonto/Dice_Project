@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd3e3fed-fe4f-4c1e-88c4-efa49caf951e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="214" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZX8qkgmBAt8fJsf6YPCsVoAIF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Die">
+    <configuration name="Die" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Die" />
+      <module name="DiceProject.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DieTest.name" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DieTest.name&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Die" />
+        <item itemvalue="Gradle.DieTest.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd3e3fed-fe4f-4c1e-88c4-efa49caf951e" name="Default Changelist" comment="" />
+      <created>1586943932351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586943932351</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="177" key="#com.intellij.ide.util.MemberChooser" timestamp="1587380818369">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="177" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1587380818369" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1587541355737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587541355737" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1587541355737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587541355737" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1587541355736">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587541355736" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1587541355737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587541355737" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1587385204114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587385204114" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1587385204114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1587385204114" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1587385204114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1587385204114" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1587385204114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1587385204114" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1587539922670">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587539922670" />
+    <state x="376" y="167" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587384733833">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="376" y="167" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1587384733833" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DiceProject$Die.ic" NAME="Die Coverage Results" MODIFIED="1587384543242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
